@@ -26,3 +26,7 @@
 ## 6. App Engine
 
 [Click here](commands/app-engine.md)
+
+## 7. Cloud IAM
+
+[Click here](commands/cloud-iam.md)
